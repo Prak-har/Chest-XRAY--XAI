@@ -1,0 +1,721 @@
+Image Index,Finding Labels,Follow-up #,Patient ID,Patient Age,Patient Gender,View Position,OriginalImage[Width,Height],OriginalImagePixelSpacing[x,y],Unnamed: 11,class_label,class_name
+00020482_061.png,Edema|Infiltration|Pneumonia,61,20482,029Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00006997_000.png,Pneumonia,0,6997,018Y,M,AP,2500,2048,0.171,0.171,,1,Pneumonia
+00012012_007.png,Effusion|Pneumonia|Pneumothorax,7,12012,037Y,F,PA,2718,2948,0.143,0.143,,1,Pneumonia
+00015255_013.png,No Finding,13,15255,046Y,M,PA,2986,2991,0.143,0.143,,0,Normal
+00016522_002.png,No Finding,2,16522,029Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00013993_004.png,Effusion|Infiltration|Pneumonia,4,13993,041Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00017138_057.png,Edema|Infiltration|Pneumonia,57,17138,024Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00012834_140.png,No Finding,140,12834,033Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00017747_019.png,No Finding,19,17747,033Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00015799_028.png,Infiltration|Pneumonia,28,15799,069Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00030557_001.png,No Finding,1,30557,040Y,F,PA,2021,2021,0.194311,0.194311,,0,Normal
+00020482_027.png,Edema|Pneumonia,27,20482,029Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00001582_017.png,Infiltration|Mass|Pneumonia,17,1582,032Y,F,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00017747_052.png,No Finding,52,17747,031Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00030265_000.png,No Finding,0,30265,043Y,F,PA,2544,3056,0.139,0.139,,0,Normal
+00029599_000.png,No Finding,0,29599,057Y,M,PA,2021,2021,0.194311,0.194311,,0,Normal
+00017504_060.png,Edema|Pneumonia,60,17504,012Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00021201_070.png,Atelectasis|Edema|Infiltration|Pneumonia,70,21201,066Y,M,AP,3056,2536,0.139,0.139,,1,Pneumonia
+00013192_003.png,Atelectasis|Nodule|Pneumonia,3,13192,059Y,F,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00007551_002.png,No Finding,2,7551,023Y,M,PA,2048,2500,0.168,0.168,,0,Normal
+00004526_013.png,Atelectasis|Infiltration|Pneumonia,13,4526,035Y,F,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00020184_004.png,Infiltration|Nodule|Pneumonia,4,20184,025Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00010012_016.png,Edema|Infiltration|Pneumonia,16,10012,053Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00027213_077.png,No Finding,77,27213,073Y,F,AP,3056,2544,0.139,0.139,,0,Normal
+00016786_001.png,Infiltration|Pneumonia,1,16786,023Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00007629_001.png,Atelectasis|Pneumonia,1,7629,052Y,M,PA,2500,2048,0.168,0.168,,1,Pneumonia
+00001582_016.png,No Finding,16,1582,033Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00029347_000.png,No Finding,0,29347,046Y,M,PA,2021,2021,0.194311,0.194311,,0,Normal
+00013249_044.png,No Finding,44,13249,015Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00030532_000.png,No Finding,0,30532,049Y,M,PA,3056,2544,0.139,0.139,,0,Normal
+00029648_001.png,No Finding,1,29648,045Y,F,PA,2021,2021,0.194311,0.194311,,0,Normal
+00016508_063.png,No Finding,63,16508,052Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00007034_045.png,No Finding,45,7034,030Y,F,AP,3056,2544,0.139,0.139,,0,Normal
+00016184_037.png,Pneumonia,37,16184,043Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00003789_000.png,Nodule|Pneumonia,0,3789,041Y,M,AP,2500,2048,0.171,0.171,,1,Pneumonia
+00017236_042.png,No Finding,42,17236,046Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00021277_018.png,Effusion|Infiltration|Pneumonia,18,21277,019Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00018187_011.png,Consolidation|Pneumonia,11,18187,032Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00012892_000.png,No Finding,0,12892,038Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00029081_001.png,No Finding,1,29081,053Y,M,PA,3056,2544,0.139,0.139,,0,Normal
+00004461_018.png,No Finding,18,4461,039Y,M,PA,2890,2991,0.143,0.143,,0,Normal
+00028518_017.png,Infiltration|Pneumonia,17,28518,048Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00001373_010.png,Cardiomegaly|Effusion|Pneumonia,10,1373,058Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00028844_016.png,No Finding,16,28844,065Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00004533_020.png,Edema|Effusion|Infiltration|Pneumonia,20,4533,034Y,M,AP,3004,2544,0.139,0.139,,1,Pneumonia
+00012298_005.png,Atelectasis|Infiltration|Pneumonia,5,12298,070Y,M,PA,2021,2020,0.194311,0.194311,,1,Pneumonia
+00021818_021.png,No Finding,21,21818,037Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00014125_044.png,Edema|Pneumonia,44,14125,028Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00016607_033.png,Mass|Pneumonia,33,16607,064Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00002395_028.png,No Finding,28,2395,062Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00006717_007.png,Pneumonia,7,6717,058Y,F,PA,2048,2500,0.168,0.168,,1,Pneumonia
+00014706_013.png,Cardiomegaly|Effusion|Infiltration|Pneumonia,13,14706,020Y,F,PA,2986,2991,0.143,0.143,,1,Pneumonia
+00020408_046.png,No Finding,46,20408,046Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00016175_001.png,Infiltration|Pneumonia,1,16175,008Y,M,PA,2194,1965,0.143,0.143,,1,Pneumonia
+00007557_001.png,Atelectasis|Infiltration|Pneumonia,1,7557,060Y,M,PA,2500,2048,0.168,0.168,,1,Pneumonia
+00004344_002.png,Pneumonia,2,4344,047Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00030079_022.png,Infiltration|Pneumonia,22,30079,016Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00005066_016.png,No Finding,16,5066,050Y,M,AP,2500,2048,0.171,0.171,,0,Normal
+00026562_014.png,No Finding,14,26562,048Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00023068_019.png,Edema|Infiltration|Pneumonia,19,23068,072Y,F,AP,2544,3056,0.139,0.139,,1,Pneumonia
+00021201_004.png,Atelectasis|Pneumonia,4,21201,065Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00012141_013.png,Edema|Effusion|Infiltration|Pneumonia,13,12141,031Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00016587_021.png,Effusion|Infiltration|Pneumonia|Pneumothorax,21,16587,048Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00028800_000.png,No Finding,0,28800,051Y,M,PA,2021,2021,0.194311,0.194311,,0,Normal
+00005567_017.png,Pneumonia,17,5567,050Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00018253_004.png,No Finding,4,18253,070Y,F,AP,2048,2500,0.168,0.168,,0,Normal
+00017151_007.png,No Finding,7,17151,031Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00029579_007.png,No Finding,7,29579,024Y,F,PA,2021,2021,0.194311,0.194311,,0,Normal
+00026818_002.png,No Finding,2,26818,031Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00010012_015.png,Edema|Infiltration|Pneumonia,15,10012,053Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00018921_021.png,Edema|Infiltration|Pneumonia|Pneumothorax,21,18921,043Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00003973_007.png,Pneumonia,7,3973,045Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00012747_006.png,Infiltration|Pneumonia,6,12747,057Y,M,AP,2048,2500,0.168,0.168,,1,Pneumonia
+00017138_059.png,Edema|Emphysema|Infiltration|Pneumonia,59,17138,024Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00010481_016.png,No Finding,16,10481,045Y,M,PA,2500,2048,0.168,0.168,,0,Normal
+00028840_000.png,No Finding,0,28840,055Y,M,PA,2021,2021,0.194311,0.194311,,0,Normal
+00005966_004.png,Atelectasis|Pneumonia,4,5966,051Y,F,AP,2500,2048,0.171,0.171,,1,Pneumonia
+00016191_026.png,Effusion|Pneumonia,26,16191,067Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00002665_001.png,Atelectasis|Pneumonia,1,2665,045Y,F,PA,2048,2500,0.171,0.171,,1,Pneumonia
+00016175_002.png,Infiltration|Pneumonia,2,16175,009Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00011391_046.png,No Finding,46,11391,039Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00029481_004.png,Pneumonia,4,29481,051Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00025787_007.png,Edema|Infiltration|Pneumonia,7,25787,027Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00022815_066.png,Pneumonia,66,22815,009Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00020213_027.png,No Finding,27,20213,072Y,F,AP,3056,2544,0.139,0.139,,0,Normal
+00017981_016.png,No Finding,16,17981,043Y,F,PA,2690,2785,0.143,0.143,,0,Normal
+00008008_031.png,No Finding,31,8008,024Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00013370_000.png,No Finding,0,13370,062Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00016191_023.png,Atelectasis|Pneumonia,23,16191,067Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00005966_010.png,No Finding,10,5966,052Y,F,PA,2048,2500,0.168,0.168,,0,Normal
+00004808_003.png,Atelectasis|Pneumonia,3,4808,031Y,M,PA,2500,2048,0.171,0.171,,1,Pneumonia
+00026412_014.png,No Finding,14,26412,025Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00018496_004.png,No Finding,4,18496,070Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00010092_037.png,Effusion|Infiltration|Pneumonia,37,10092,049Y,F,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00015956_028.png,Edema|Infiltration|Pneumonia,28,15956,069Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00005567_002.png,Atelectasis|Effusion|Pneumonia,2,5567,053Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00011136_002.png,Consolidation|Effusion|Pneumonia,2,11136,031Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00016508_057.png,Consolidation|Emphysema|Pneumonia,57,16508,052Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00003029_019.png,No Finding,19,3029,054Y,F,AP,3056,2544,0.139,0.139,,0,Normal
+00030079_067.png,Edema|Infiltration|Pneumonia,67,30079,016Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00019271_060.png,No Finding,60,19271,055Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00014798_005.png,Mass|Pneumonia,5,14798,023Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00028827_000.png,No Finding,0,28827,026Y,M,PA,1876,1897,0.194311,0.194311,,0,Normal
+00015956_025.png,Edema|Pneumonia,25,15956,069Y,M,AP,3036,2544,0.139,0.139,,1,Pneumonia
+00006586_003.png,No Finding,3,6586,061Y,M,AP,2500,2048,0.171,0.171,,0,Normal
+00013615_053.png,Pneumonia,53,13615,011Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00010071_004.png,Atelectasis|Emphysema|Pneumonia|Pneumothorax,4,10071,035Y,F,PA,2048,2500,0.168,0.168,,1,Pneumonia
+00014223_010.png,Edema|Infiltration|Pneumonia,10,14223,027Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00029750_001.png,No Finding,1,29750,024Y,F,AP,3056,2544,0.139,0.139,,0,Normal
+00001946_018.png,Infiltration|Pneumonia,18,1946,019Y,M,PA,2634,2501,0.143,0.143,,1,Pneumonia
+00012094_017.png,No Finding,17,12094,063Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00026263_010.png,Atelectasis|Consolidation|Effusion|Pneumonia,10,26263,038Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00016094_031.png,Infiltration|Pleural_Thickening|Pneumonia,31,16094,026Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00014058_006.png,Atelectasis|Pneumonia,6,14058,047Y,M,PA,2990,2948,0.143,0.143,,1,Pneumonia
+00012364_063.png,Edema|Pneumonia,63,12364,053Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00028709_001.png,No Finding,1,28709,029Y,F,PA,2021,2021,0.194311,0.194311,,0,Normal
+00013670_018.png,No Finding,18,13670,056Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00021201_064.png,Edema|Pneumonia,64,21201,066Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00012834_112.png,Edema|Infiltration|Pleural_Thickening|Pneumonia,112,12834,033Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00021374_025.png,No Finding,25,21374,081Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00001836_008.png,No Finding,8,1836,049Y,F,AP,2048,2500,0.168,0.168,,0,Normal
+00008841_040.png,No Finding,40,8841,050Y,F,PA,2992,2991,0.143,0.143,,0,Normal
+00002061_000.png,Nodule|Pleural_Thickening|Pneumonia,0,2061,057Y,M,PA,2021,2021,0.194311,0.194311,,1,Pneumonia
+00012021_081.png,Infiltration|Pneumonia,81,12021,025Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00016009_042.png,No Finding,42,16009,055Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00003528_017.png,Edema|Infiltration|Pneumonia,17,3528,046Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00017410_001.png,No Finding,1,17410,049Y,M,PA,2021,2021,0.194311,0.194311,,0,Normal
+00010805_042.png,Pneumonia,42,10805,009Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00016508_012.png,Consolidation|Pneumonia,12,16508,051Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00014082_001.png,No Finding,1,14082,036Y,F,AP,3056,2544,0.139,0.139,,0,Normal
+00011702_043.png,Pneumonia,43,11702,026Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00016607_041.png,Infiltration|Pneumonia,41,16607,064Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00013031_024.png,Infiltration|Pneumonia,24,13031,054Y,M,PA,2898,2991,0.143,0.143,,1,Pneumonia
+00019265_004.png,No Finding,4,19265,041Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00023075_010.png,No Finding,10,23075,029Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00013685_058.png,Edema|Infiltration|Pneumonia,58,13685,049Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00012834_113.png,Consolidation|Edema|Effusion|Pneumonia,113,12834,033Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00001946_007.png,Pneumonia,7,1946,016Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00027685_002.png,Edema|Infiltration|Pneumonia,2,27685,061Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00014294_011.png,Pneumonia,11,14294,037Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00022726_003.png,No Finding,3,22726,045Y,F,AP,3008,2544,0.139,0.139,,0,Normal
+00015605_036.png,Edema|Infiltration|Pneumonia,36,15605,032Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00014177_011.png,Effusion|Infiltration|Pneumonia,11,14177,039Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00011514_017.png,No Finding,17,11514,046Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00012834_155.png,Consolidation|Edema|Infiltration|Pleural_Thickening|Pneumonia,155,12834,034Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00028628_001.png,Effusion|Pneumonia|Pneumothorax,1,28628,019Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00019863_010.png,Atelectasis|Infiltration|Pneumonia,10,19863,035Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00015646_011.png,Edema|Effusion|Infiltration|Pneumonia,11,15646,066Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00022369_000.png,No Finding,0,22369,043Y,F,AP,2048,2500,0.168,0.168,,0,Normal
+00000808_004.png,No Finding,4,808,051Y,F,PA,2992,2991,0.143,0.143,,0,Normal
+00008365_000.png,Cardiomegaly|Pneumonia,0,8365,070Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00004893_027.png,Pneumonia,27,4893,029Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00015646_017.png,No Finding,17,15646,066Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00021024_009.png,Infiltration|Pneumonia,9,21024,025Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00028690_000.png,No Finding,0,28690,030Y,M,PA,2496,3052,0.139,0.139,,0,Normal
+00030637_016.png,Consolidation|Pneumonia,16,30637,048Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00029637_000.png,No Finding,0,29637,054Y,F,PA,2021,2021,0.194311,0.194311,,0,Normal
+00029950_001.png,No Finding,1,29950,036Y,F,AP,3056,2544,0.139,0.139,,0,Normal
+00011683_018.png,No Finding,18,11683,056Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00018187_038.png,Edema|Infiltration|Pneumonia,38,18187,032Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00015007_008.png,No Finding,8,15007,004Y,F,AP,2048,2500,0.168,0.168,,0,Normal
+00026194_014.png,Atelectasis|Pneumonia,14,26194,011Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00029431_000.png,Edema|Infiltration|Pneumonia,0,29431,065Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00014149_020.png,Edema|Infiltration|Pneumonia,20,14149,059Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00011702_010.png,Edema|Infiltration|Pneumonia,10,11702,025Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00001582_023.png,Atelectasis|Cardiomegaly|Effusion|Pneumonia,23,1582,034Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00030079_018.png,Pneumonia,18,30079,016Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00009229_022.png,No Finding,22,9229,038Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00011237_066.png,Infiltration|Pneumonia,66,11237,056Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00005695_005.png,No Finding,5,5695,020Y,F,AP,2048,2500,0.171,0.171,,0,Normal
+00010478_006.png,Edema|Pneumonia,6,10478,055Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00003528_043.png,Pneumonia,43,3528,046Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00012094_033.png,Pneumonia|Pneumothorax,33,12094,063Y,F,PA,2754,2741,0.143,0.143,,1,Pneumonia
+00020945_020.png,Pneumonia,20,20945,034Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00021201_037.png,Pneumonia,37,21201,066Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00000583_045.png,Pneumonia,45,583,040Y,F,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00028873_015.png,No Finding,15,28873,015Y,M,PA,1755,1822,0.194308,0.194308,,0,Normal
+00005681_006.png,Infiltration|Pneumonia,6,5681,046Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00021818_026.png,Consolidation|Pneumonia,26,21818,037Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00011583_019.png,No Finding,19,11583,062Y,M,PA,2654,2991,0.143,0.143,,0,Normal
+00014574_003.png,No Finding,3,14574,075Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00009229_017.png,No Finding,17,9229,037Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00002437_033.png,Edema|Pneumonia,33,2437,058Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00028452_000.png,No Finding,0,28452,059Y,F,PA,2544,3056,0.139,0.139,,0,Normal
+00012021_014.png,No Finding,14,12021,025Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00013721_005.png,Atelectasis|Pneumonia,5,13721,015Y,F,PA,2794,2991,0.143,0.143,,1,Pneumonia
+00017504_059.png,Edema|Pneumonia,59,17504,012Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00028208_005.png,Infiltration|Pneumonia,5,28208,064Y,M,PA,3056,2544,0.139,0.139,,1,Pneumonia
+00016568_002.png,Mass|Nodule|Pneumonia,2,16568,037Y,F,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00016291_054.png,Cardiomegaly|Consolidation|Pneumonia,54,16291,054Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00001736_010.png,Atelectasis|Consolidation|Effusion|Pneumonia,10,1736,032Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00016064_005.png,No Finding,5,16064,056Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00026848_023.png,Edema|Infiltration|Pneumonia,23,26848,022Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00010120_010.png,Infiltration|Pneumonia,10,10120,049Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00010805_047.png,Atelectasis|Consolidation|Edema|Infiltration|Pneumonia,47,10805,009Y,F,AP,2048,2500,0.168,0.168,,1,Pneumonia
+00016801_009.png,Edema|Effusion|Infiltration|Mass|Pneumonia,9,16801,048Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00014125_042.png,Edema|Pneumonia,42,14125,028Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00016191_000.png,No Finding,0,16191,065Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00025664_019.png,Edema|Effusion|Pneumonia,19,25664,071Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00000468_040.png,Infiltration|Pneumonia|Pneumothorax,40,468,031Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00013673_007.png,Edema|Infiltration|Mass|Nodule|Pneumonia,7,13673,046Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00014022_010.png,Effusion|Pneumonia,10,14022,065Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00027726_053.png,Infiltration|Pneumonia,53,27726,058Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00017504_058.png,Edema|Infiltration|Pneumonia,58,17504,012Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00016395_003.png,Edema|Pneumonia,3,16395,035Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00008291_002.png,No Finding,2,8291,034Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00013615_024.png,Pneumonia,24,13615,010Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00013670_012.png,No Finding,12,13670,055Y,M,PA,2762,2741,0.143,0.143,,0,Normal
+00016009_003.png,No Finding,3,16009,054Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00014022_086.png,Effusion|Pneumonia,86,14022,066Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00016434_001.png,Effusion|Nodule|Pneumonia,1,16434,061Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00007018_042.png,No Finding,42,7018,029Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00019750_009.png,Edema|Infiltration|Pneumonia,9,19750,061Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00011391_006.png,Pneumonia,6,11391,038Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00014492_005.png,Pneumonia,5,14492,046Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00018319_001.png,Pneumonia,1,18319,008Y,M,AP,2344,3056,0.139,0.139,,1,Pneumonia
+00011683_056.png,No Finding,56,11683,060Y,F,PA,2992,2991,0.143,0.143,,0,Normal
+00020259_002.png,Consolidation|Infiltration|Pneumonia,2,20259,052Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00002300_008.png,Effusion|Pneumonia,8,2300,081Y,F,AP,2048,2500,0.168,0.168,,1,Pneumonia
+00006713_001.png,Atelectasis|Pneumonia,1,6713,072Y,M,PA,2500,2048,0.171,0.171,,1,Pneumonia
+00017236_103.png,Edema|Pneumonia,103,17236,046Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00004822_005.png,Infiltration|Pneumonia,5,4822,033Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00003945_000.png,No Finding,0,3945,051Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00030079_066.png,Edema|Infiltration|Pneumonia,66,30079,016Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00020333_003.png,Infiltration|Mass|Nodule|Pneumonia,3,20333,065Y,F,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00013992_023.png,Edema|Effusion|Infiltration|Pneumonia,23,13992,060Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00001437_019.png,Pneumonia,19,1437,030Y,F,AP,3048,2544,0.139,0.139,,1,Pneumonia
+00013911_013.png,No Finding,13,13911,064Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00015605_052.png,Edema|Infiltration|Pneumonia,52,15605,032Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00005567_000.png,Effusion|Pneumonia,0,5567,412Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00006997_001.png,Edema|Infiltration|Pneumonia,1,6997,018Y,M,AP,2500,2048,0.171,0.171,,1,Pneumonia
+00015732_047.png,Edema|Infiltration|Pneumonia,47,15732,048Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00001933_000.png,Consolidation|Pneumonia,0,1933,040Y,F,PA,2570,2991,0.143,0.143,,1,Pneumonia
+00017138_056.png,Edema|Pneumonia,56,17138,024Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00012094_009.png,Pneumonia,9,12094,063Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00013993_124.png,Effusion|Infiltration|Pneumonia,124,13993,044Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00019750_031.png,Pneumonia,31,19750,057Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00011702_059.png,Edema|Effusion|Pneumonia,59,11702,026Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00022877_014.png,Pneumonia,14,22877,056Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00020945_043.png,Infiltration|Pneumonia,43,20945,034Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00012834_050.png,Edema|Pneumonia,50,12834,033Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00003391_002.png,Effusion|Pneumonia,2,3391,055Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00015442_000.png,Pneumonia,0,15442,063Y,F,PA,2766,2573,0.143,0.143,,1,Pneumonia
+00017747_030.png,No Finding,30,17747,034Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00017081_002.png,Edema|Pneumonia,2,17081,040Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00017641_003.png,Pneumonia,3,17641,067Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00028348_001.png,No Finding,1,28348,052Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00014015_016.png,Edema|Effusion|Infiltration|Pneumonia,16,14015,031Y,F,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00013377_007.png,No Finding,7,13377,038Y,F,PA,2500,2048,0.168,0.168,,0,Normal
+00012364_075.png,Edema|Infiltration|Pneumonia,75,12364,053Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00007034_070.png,Infiltration|Pneumonia,70,7034,030Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00014615_007.png,Infiltration|Pneumonia,7,14615,071Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00013992_028.png,Edema|Infiltration|Pneumonia,28,13992,060Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00028883_000.png,No Finding,0,28883,019Y,M,PA,2021,2021,0.194311,0.194311,,0,Normal
+00017714_011.png,Atelectasis|Consolidation|Pneumonia,11,17714,020Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00002509_001.png,No Finding,1,2509,047Y,F,PA,2946,2953,0.143,0.143,,0,Normal
+00019863_008.png,Infiltration|Pneumonia|Pneumothorax,8,19863,035Y,F,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00017178_003.png,Edema|Infiltration|Pneumonia,3,17178,055Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00013256_005.png,No Finding,5,13256,051Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00009863_001.png,No Finding,1,9863,040Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00010012_024.png,Edema|Infiltration|Pneumonia,24,10012,053Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00007322_011.png,Effusion|Infiltration|Pneumonia,11,7322,068Y,F,AP,2500,2048,0.171,0.171,,1,Pneumonia
+00001836_058.png,No Finding,58,1836,049Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00022192_014.png,No Finding,14,22192,073Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00015770_023.png,No Finding,23,15770,066Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00025732_003.png,No Finding,3,25732,041Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00009608_034.png,Edema|Infiltration|Pleural_Thickening|Pneumonia,34,9608,030Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00021201_096.png,No Finding,96,21201,066Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00016786_005.png,Infiltration|Pneumonia,5,16786,023Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00022192_038.png,Pneumonia,38,22192,073Y,M,PA,3056,2544,0.139,0.139,,1,Pneumonia
+00003787_000.png,No Finding,0,3787,060Y,F,PA,2992,2991,0.143,0.143,,0,Normal
+00010120_008.png,Infiltration|Pneumonia,8,10120,049Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00017403_001.png,No Finding,1,17403,051Y,F,PA,2992,2989,0.143,0.143,,0,Normal
+00000211_018.png,Cardiomegaly|Effusion|Pneumonia,18,211,059Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00013111_105.png,No Finding,105,13111,023Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00019018_003.png,Edema|Infiltration|Pneumonia,3,19018,028Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00021710_002.png,Pneumonia,2,21710,059Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00013531_005.png,No Finding,5,13531,052Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00017747_025.png,No Finding,25,17747,033Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00022192_024.png,No Finding,24,22192,073Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00014223_012.png,Edema|Infiltration|Pneumonia,12,14223,027Y,M,AP,2048,2500,0.168,0.168,,1,Pneumonia
+00025252_077.png,Edema|Infiltration|Pleural_Thickening|Pneumonia|Pneumothorax,77,25252,030Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00017504_051.png,Edema|Pneumonia,51,17504,012Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00009889_007.png,Atelectasis|Pneumonia,7,9889,024Y,M,PA,2048,2500,0.168,0.168,,1,Pneumonia
+00013249_012.png,Cardiomegaly|Effusion|Pneumonia,12,13249,014Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00011583_000.png,Infiltration|Pneumonia,0,11583,067Y,M,PA,2850,2991,0.143,0.143,,1,Pneumonia
+00004832_030.png,Consolidation|Infiltration|Pleural_Thickening|Pneumonia,30,4832,033Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00015442_013.png,Atelectasis|Pneumonia,13,15442,060Y,F,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00011973_015.png,Pneumonia,15,11973,062Y,M,PA,2822,2991,0.143,0.143,,1,Pneumonia
+00009507_002.png,Effusion|Hernia|Pneumonia,2,9507,059Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00001437_053.png,No Finding,53,1437,031Y,F,AP,2872,2544,0.139,0.139,,0,Normal
+00011925_032.png,Edema|Effusion|Infiltration|Pneumonia,32,11925,054Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00011460_043.png,Pneumonia|Pneumothorax,43,11460,016Y,M,PA,2658,2797,0.143,0.143,,1,Pneumonia
+00021818_024.png,Consolidation|Infiltration|Pneumonia,24,21818,037Y,M,PA,2990,2991,0.143,0.143,,1,Pneumonia
+00000506_013.png,Edema|Effusion|Pneumonia,13,506,028Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00019150_002.png,Infiltration|Pneumonia,2,19150,069Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00017405_013.png,Pneumonia,13,17405,064Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00010652_003.png,Consolidation|Infiltration|Pneumonia,3,10652,044Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00014130_005.png,No Finding,5,14130,053Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00017710_009.png,Consolidation|Pneumonia,9,17710,044Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00015072_010.png,Atelectasis|Consolidation|Edema|Effusion|Infiltration|Pneumonia,10,15072,061Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00007018_047.png,Edema|Infiltration|Pneumonia,47,7018,028Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00006889_001.png,No Finding,1,6889,015Y,M,PA,2048,2500,0.168,0.168,,0,Normal
+00017403_003.png,Infiltration|Mass|Pneumonia,3,17403,052Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00011237_067.png,Infiltration|Pneumonia,67,11237,056Y,F,AP,2048,2500,0.168,0.168,,1,Pneumonia
+00019275_001.png,Pneumonia,1,19275,055Y,F,PA,1857,1797,0.194311,0.194311,,1,Pneumonia
+00013249_034.png,Cardiomegaly|Edema|Infiltration|Pneumonia,34,13249,015Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00004893_030.png,No Finding,30,4893,030Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00014253_027.png,Atelectasis|Effusion|Pneumonia,27,14253,060Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00006991_011.png,Edema|Pneumonia,11,6991,053Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00013249_056.png,Infiltration|Pneumonia,56,13249,015Y,M,PA,2414,1940,0.143,0.143,,1,Pneumonia
+00020945_021.png,Pneumonia,21,20945,034Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00022192_021.png,No Finding,21,22192,073Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00001836_110.png,Mass|Pneumonia,110,1836,050Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00001437_015.png,No Finding,15,1437,030Y,F,PA,2594,2991,0.143,0.143,,0,Normal
+00023271_006.png,Edema|Infiltration|Pneumonia,6,23271,040Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00026451_055.png,Edema|Effusion|Pleural_Thickening|Pneumonia|Pneumothorax,55,26451,052Y,M,PA,2021,2021,0.194311,0.194311,,1,Pneumonia
+00029681_000.png,No Finding,0,29681,012Y,M,PA,1557,1736,0.194311,0.194311,,0,Normal
+00003803_008.png,No Finding,8,3803,051Y,F,PA,2670,2709,0.143,0.143,,0,Normal
+00028924_005.png,Pneumonia,5,28924,072Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00005712_000.png,No Finding,0,5712,040Y,M,PA,2021,2021,0.194311,0.194311,,0,Normal
+00019154_003.png,Infiltration|Pneumonia,3,19154,058Y,F,PA,2506,2991,0.143,0.143,,1,Pneumonia
+00018867_008.png,No Finding,8,18867,033Y,F,PA,2992,2991,0.143,0.143,,0,Normal
+00019363_006.png,No Finding,6,19363,055Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00013993_079.png,Edema|Effusion|Pneumonia,79,13993,042Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00029012_000.png,No Finding,0,29012,012Y,M,PA,2544,3056,0.139,0.139,,0,Normal
+00013111_077.png,Atelectasis|Emphysema|Pneumonia,77,13111,021Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00030323_015.png,Consolidation|Pneumonia,15,30323,031Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00017504_061.png,Edema|Infiltration|Pneumonia,61,17504,012Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00016064_010.png,Effusion|Mass|Pneumonia,10,16064,055Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00016972_005.png,Pneumonia,5,16972,043Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00020482_060.png,Edema|Infiltration|Pneumonia,60,20482,029Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00021201_063.png,Edema|Pneumonia,63,21201,066Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00001247_011.png,Pneumonia,11,1247,044Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00004822_014.png,No Finding,14,4822,024Y,M,PA,2500,2048,0.168,0.168,,0,Normal
+00030719_000.png,No Finding,0,30719,054Y,M,PA,2021,2021,0.194311,0.194311,,0,Normal
+00019861_022.png,No Finding,22,19861,064Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00023089_004.png,Infiltration|Pneumonia,4,23089,059Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00013249_033.png,Cardiomegaly|Edema|Infiltration|Pneumonia,33,13249,015Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00014731_016.png,Emphysema|Mass|Pneumonia|Pneumothorax,16,14731,054Y,M,PA,2878,2991,0.143,0.143,,1,Pneumonia
+00023138_008.png,Infiltration|Pneumonia,8,23138,040Y,M,AP,2544,3056,0.139,0.139,,1,Pneumonia
+00009507_001.png,Consolidation|Hernia|Infiltration|Pneumonia,1,9507,059Y,M,PA,2826,2905,0.143,0.143,,1,Pneumonia
+00005712_022.png,Edema|Infiltration|Pneumonia,22,5712,033Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00026478_007.png,No Finding,7,26478,058Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00010092_035.png,Infiltration|Pneumonia,35,10092,049Y,F,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00013192_004.png,No Finding,4,13192,060Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00017504_062.png,Edema|Emphysema|Infiltration|Pneumonia,62,17504,012Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00003028_052.png,No Finding,52,3028,058Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00002350_002.png,No Finding,2,2350,051Y,F,PA,2992,2991,0.143,0.143,,0,Normal
+00016191_010.png,No Finding,10,16191,065Y,M,PA,2500,2048,0.168,0.168,,0,Normal
+00025252_009.png,No Finding,9,25252,030Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00022290_016.png,Effusion|Pneumonia,16,22290,058Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00004342_054.png,Cardiomegaly|Edema|Effusion|Pneumonia,54,4342,048Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00030281_000.png,No Finding,0,30281,055Y,F,PA,2021,2021,0.194311,0.194311,,0,Normal
+00016705_004.png,Pneumonia,4,16705,025Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00013992_016.png,Atelectasis|Effusion|Infiltration|Pneumonia,16,13992,060Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00020408_014.png,Atelectasis|Consolidation|Infiltration|Pneumonia,14,20408,045Y,M,AP,2348,2544,0.139,0.139,,1,Pneumonia
+00026555_002.png,Atelectasis|Edema|Infiltration|Pneumonia,2,26555,046Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00014294_008.png,No Finding,8,14294,038Y,M,PA,2500,2048,0.168,0.168,,0,Normal
+00021818_025.png,Consolidation|Pneumonia,25,21818,037Y,M,PA,3056,2532,0.139,0.139,,1,Pneumonia
+00016568_010.png,Edema|Infiltration|Mass|Pneumonia,10,16568,038Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00021201_036.png,Pneumonia,36,21201,065Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00017138_039.png,Edema|Effusion|Pneumonia,39,17138,024Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00001946_015.png,Infiltration|Pleural_Thickening|Pneumonia,15,1946,019Y,M,PA,2544,2856,0.139,0.139,,1,Pneumonia
+00017641_001.png,No Finding,1,17641,067Y,M,PA,2630,2721,0.143,0.143,,0,Normal
+00010563_017.png,No Finding,17,10563,034Y,M,PA,2742,2991,0.143,0.143,,0,Normal
+00010380_009.png,No Finding,9,10380,036Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00023271_016.png,Infiltration|Pneumonia,16,23271,040Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00028160_000.png,No Finding,0,28160,018Y,M,AP,2544,3056,0.139,0.139,,0,Normal
+00029861_013.png,Edema|Infiltration|Pneumonia,13,29861,063Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00014716_000.png,No Finding,0,14716,051Y,M,PA,2500,2048,0.168,0.168,,0,Normal
+00002316_004.png,No Finding,4,2316,063Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00020725_029.png,No Finding,29,20725,050Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00028974_001.png,Effusion|Pneumonia,1,28974,076Y,M,PA,2020,2021,0.194311,0.194311,,1,Pneumonia
+00019684_004.png,Edema|Pneumonia,4,19684,052Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00020482_025.png,Infiltration|Pneumonia,25,20482,029Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00027479_019.png,Pleural_Thickening|Pneumonia,19,27479,051Y,M,PA,2992,2861,0.143,0.143,,1,Pneumonia
+00022572_074.png,No Finding,74,22572,051Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00020945_030.png,No Finding,30,20945,034Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00028873_018.png,Edema|Effusion|Infiltration|Pneumonia,18,28873,015Y,M,AP,2544,3056,0.139,0.139,,1,Pneumonia
+00012622_028.png,Mass|Pneumonia,28,12622,032Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00026753_004.png,Pneumonia,4,26753,049Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00015530_026.png,Edema|Infiltration|Pneumonia,26,15530,020Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00013992_029.png,Atelectasis|Consolidation|Infiltration|Pneumonia,29,13992,060Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00028873_017.png,Pneumonia,17,28873,015Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00015530_153.png,No Finding,153,15530,015Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00018319_000.png,Pneumonia,0,18319,008Y,M,AP,2056,2092,0.139,0.139,,1,Pneumonia
+00022815_010.png,Infiltration|Pneumonia,10,22815,009Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00014798_004.png,Mass|Pneumonia,4,14798,023Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00017606_030.png,No Finding,30,17606,056Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00021840_008.png,Atelectasis|Edema|Effusion|Infiltration|Pneumonia,8,21840,059Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00003391_001.png,Effusion|Pneumonia,1,3391,055Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00018360_012.png,Edema|Pneumonia,12,18360,062Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00017714_019.png,Pneumonia,19,17714,020Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00010805_010.png,Consolidation|Pneumonia,10,10805,006Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00003528_024.png,Atelectasis|Pneumonia,24,3528,046Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00011391_050.png,Edema|Infiltration|Pneumonia,50,11391,039Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00030606_012.png,No Finding,12,30606,059Y,M,PA,2021,2021,0.194311,0.194311,,0,Normal
+00022815_012.png,Atelectasis|Consolidation|Pneumonia,12,22815,009Y,M,AP,2544,3056,0.139,0.139,,1,Pneumonia
+00030501_001.png,No Finding,1,30501,038Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00028362_000.png,No Finding,0,28362,019Y,M,PA,1828,2021,0.194311,0.194311,,0,Normal
+00007728_013.png,Infiltration|Pneumonia,13,7728,034Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00028873_001.png,No Finding,1,28873,015Y,M,PA,1804,1758,0.194311,0.194311,,0,Normal
+00011973_016.png,No Finding,16,11973,062Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00001248_003.png,Consolidation|Effusion|Pneumonia,3,1248,038Y,F,PA,2021,2021,0.194311,0.194311,,1,Pneumonia
+00028457_010.png,Pneumonia,10,28457,036Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00011583_007.png,Edema|Infiltration|Pneumonia,7,11583,067Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00013285_027.png,Atelectasis|Consolidation|Pneumonia,27,13285,017Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00000468_029.png,Cardiomegaly|Infiltration|Nodule|Pneumonia,29,468,031Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00020482_029.png,Pneumonia,29,20482,029Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00019275_002.png,Pneumonia,2,19275,055Y,F,PA,2010,2021,0.193754,0.193754,,1,Pneumonia
+00012834_000.png,Edema|Infiltration|Pneumonia,0,12834,033Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00028929_000.png,No Finding,0,28929,025Y,M,PA,2021,2021,0.194311,0.194311,,0,Normal
+00011237_044.png,No Finding,44,11237,056Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00018360_052.png,No Finding,52,18360,062Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00021201_065.png,Edema|Pneumonia,65,21201,066Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00015425_000.png,No Finding,0,15425,050Y,F,PA,2992,2991,0.143,0.143,,0,Normal
+00019750_010.png,Effusion|Infiltration|Pneumonia,10,19750,061Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00030111_012.png,No Finding,12,30111,051Y,M,PA,2021,2021,0.194311,0.194311,,0,Normal
+00006674_003.png,No Finding,3,6674,030Y,M,AP,2500,2048,0.171,0.171,,0,Normal
+00005712_019.png,Edema|Pneumonia,19,5712,033Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00029861_012.png,Edema|Effusion|Pneumonia,12,29861,063Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00014149_040.png,Edema|Infiltration|Pneumonia,40,14149,059Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00012834_145.png,Edema|Infiltration|Pleural_Thickening|Pneumonia,145,12834,034Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00016705_002.png,Pneumonia,2,16705,024Y,M,PA,2974,2991,0.143,0.143,,1,Pneumonia
+00002704_004.png,No Finding,4,2704,039Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00016568_003.png,Effusion|Mass|Nodule|Pneumonia,3,16568,038Y,F,AP,2048,2500,0.168,0.168,,1,Pneumonia
+00029469_012.png,Edema|Effusion|Infiltration|Pneumonia,12,29469,059Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00020945_012.png,Infiltration|Pneumonia,12,20945,034Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00013615_017.png,No Finding,17,13615,010Y,F,PA,2992,2991,0.143,0.143,,0,Normal
+00013370_002.png,No Finding,2,13370,062Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00019769_014.png,Infiltration|Pneumonia,14,19769,049Y,F,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00019750_022.png,Edema|Infiltration|Pneumonia,22,19750,061Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00028180_004.png,No Finding,4,28180,066Y,M,PA,2020,2021,0.194311,0.194311,,0,Normal
+00016705_005.png,Infiltration|Pneumonia,5,16705,025Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00023081_004.png,No Finding,4,23081,053Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00012021_036.png,No Finding,36,12021,025Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00021926_001.png,No Finding,1,21926,009Y,M,PA,2310,2163,0.143,0.143,,0,Normal
+00003028_050.png,Edema|Pneumonia,50,3028,058Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00023168_003.png,No Finding,3,23168,021Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00000506_016.png,Edema|Effusion|Pneumonia,16,506,028Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00022993_018.png,Edema|Pneumonia,18,22993,056Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00002704_013.png,No Finding,13,2704,039Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00017138_066.png,Edema|Pneumonia,66,17138,024Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00000218_001.png,Pneumonia,1,218,033Y,M,PA,2048,2500,0.171,0.171,,1,Pneumonia
+00029159_010.png,Edema|Effusion|Infiltration|Pneumonia,10,29159,052Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00015799_006.png,Edema|Infiltration|Pneumonia,6,15799,068Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00026827_001.png,No Finding,1,26827,083Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00002529_008.png,Infiltration|Nodule|Pneumonia,8,2529,016Y,F,AP,2048,2500,0.168,0.168,,1,Pneumonia
+00010677_015.png,No Finding,15,10677,055Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00028173_010.png,Pneumonia,10,28173,016Y,F,PA,1743,1576,0.194311,0.194311,,1,Pneumonia
+00000398_002.png,Infiltration|Pneumonia,2,398,065Y,F,PA,2048,2500,0.168,0.168,,1,Pneumonia
+00030709_002.png,No Finding,2,30709,048Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00017138_033.png,Effusion|Infiltration|Pneumonia,33,17138,024Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00011831_015.png,Edema|Emphysema|Infiltration|Mass|Pneumonia,15,11831,056Y,F,PA,2658,2991,0.143,0.143,,1,Pneumonia
+00027837_001.png,Mass|Nodule|Pneumonia|Pneumothorax,1,27837,050Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00022290_015.png,Effusion|Pneumonia,15,22290,058Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00012413_009.png,Infiltration|Mass|Pneumonia,9,12413,043Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00018032_000.png,Infiltration|Nodule|Pneumonia,0,18032,017Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00009863_043.png,Edema|Infiltration|Pneumonia,43,9863,040Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00013111_030.png,Atelectasis|Infiltration|Pneumonia,30,13111,024Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00016607_040.png,Infiltration|Pneumonia,40,16607,064Y,M,PA,2500,2048,0.168,0.168,,1,Pneumonia
+00019766_026.png,Infiltration|Pneumonia,26,19766,042Y,M,PA,2021,2021,0.194311,0.194311,,1,Pneumonia
+00019766_009.png,No Finding,9,19766,039Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00003064_026.png,Pneumonia,26,3064,035Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00019750_021.png,No Finding,21,19750,061Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00013685_004.png,Effusion|Infiltration|Pneumonia,4,13685,049Y,F,PA,2402,2280,0.143,0.143,,1,Pneumonia
+00029431_001.png,Infiltration|Pneumonia,1,29431,066Y,M,PA,2021,2021,0.194311,0.194311,,1,Pneumonia
+00006991_012.png,Edema|Pneumonia,12,6991,053Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00010936_022.png,No Finding,22,10936,039Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00029469_009.png,Infiltration|Pneumonia,9,29469,059Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00013249_038.png,Cardiomegaly|Edema|Effusion|Infiltration|Pneumonia,38,13249,015Y,M,AP,2048,2500,0.168,0.168,,1,Pneumonia
+00000324_008.png,No Finding,8,324,034Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00022237_015.png,Infiltration|Nodule|Pneumonia,15,22237,069Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00017747_039.png,Atelectasis|Infiltration|Pneumonia,39,17747,030Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00007735_008.png,Atelectasis|Pneumonia,8,7735,029Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00017611_002.png,Nodule|Pneumonia,2,17611,060Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00000013_010.png,Effusion|Pneumonia|Pneumothorax,10,13,060Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00006964_002.png,No Finding,2,6964,051Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00007629_002.png,Atelectasis|Pneumonia,2,7629,052Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00030266_000.png,No Finding,0,30266,055Y,M,PA,3056,2544,0.139,0.139,,0,Normal
+00015069_000.png,Infiltration|Pneumonia,0,15069,025Y,M,PA,2048,2500,0.168,0.168,,1,Pneumonia
+00000756_005.png,No Finding,5,756,039Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00014022_054.png,Fibrosis|Pneumonia,54,14022,066Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00001582_019.png,Pneumonia,19,1582,033Y,F,PA,2726,2621,0.143,0.143,,1,Pneumonia
+00027213_060.png,Edema|Infiltration|Pneumonia|Pneumothorax,60,27213,073Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00017972_032.png,Infiltration|Pleural_Thickening|Pneumonia,32,17972,015Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00012364_071.png,Edema|Infiltration|Pneumonia,71,12364,053Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00005532_022.png,Infiltration|Pneumonia,22,5532,041Y,F,PA,2010,2021,0.193754,0.193754,,1,Pneumonia
+00005712_011.png,Edema|Infiltration|Mass|Pneumonia,11,5712,033Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00023052_001.png,Edema|Infiltration|Pneumonia,1,23052,048Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00021860_011.png,No Finding,11,21860,045Y,F,PA,2992,2991,0.143,0.143,,0,Normal
+00014177_007.png,Effusion|Pneumonia,7,14177,038Y,M,PA,2726,2991,0.143,0.143,,1,Pneumonia
+00027213_083.png,No Finding,83,27213,073Y,F,AP,3056,2544,0.139,0.139,,0,Normal
+00029102_003.png,No Finding,3,29102,026Y,F,PA,1893,1730,0.194311,0.194311,,0,Normal
+00013670_048.png,Consolidation|Pneumonia,48,13670,056Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00029338_000.png,No Finding,0,29338,067Y,M,PA,2021,2021,0.194311,0.194311,,0,Normal
+00012834_120.png,No Finding,120,12834,033Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00005532_004.png,Cardiomegaly|Pneumonia,4,5532,038Y,F,PA,2604,2991,0.143,0.143,,1,Pneumonia
+00023271_002.png,Edema|Pneumonia,2,23271,040Y,F,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00001437_024.png,Consolidation|Effusion|Infiltration|Pneumonia,24,1437,030Y,F,PA,2386,2497,0.143,0.143,,1,Pneumonia
+00018921_072.png,No Finding,72,18921,043Y,F,AP,3056,2544,0.139,0.139,,0,Normal
+00000583_034.png,Atelectasis|Infiltration|Pneumonia,34,583,040Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00026818_017.png,Edema|Pneumonia,17,26818,031Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00018840_005.png,No Finding,5,18840,021Y,F,AP,3056,2544,0.139,0.139,,0,Normal
+00011237_112.png,Edema|Infiltration|Pneumonia,112,11237,056Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00012386_008.png,No Finding,8,12386,050Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00005609_022.png,No Finding,22,5609,040Y,M,AP,2500,2048,0.171,0.171,,0,Normal
+00030303_000.png,No Finding,0,30303,010Y,F,AP,3056,2544,0.139,0.139,,0,Normal
+00017255_001.png,Atelectasis|Pneumonia,1,17255,026Y,F,PA,2814,2991,0.143,0.143,,1,Pneumonia
+00003028_045.png,No Finding,45,3028,058Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00014197_000.png,Infiltration|Pneumonia,0,14197,057Y,M,PA,3052,2528,0.139,0.139,,1,Pneumonia
+00008727_009.png,Pneumonia,9,8727,054Y,M,PA,2500,2048,0.168,0.168,,1,Pneumonia
+00001582_024.png,Atelectasis|Cardiomegaly|Effusion|Pneumonia,24,1582,034Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00014004_008.png,Infiltration|Pneumonia,8,14004,058Y,F,PA,2490,2649,0.143,0.143,,1,Pneumonia
+00000211_013.png,Cardiomegaly|Edema|Effusion|Infiltration|Pneumonia,13,211,059Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00005681_033.png,No Finding,33,5681,046Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00021277_020.png,Edema|Infiltration|Pleural_Thickening|Pneumonia,20,21277,019Y,M,AP,2048,2500,0.168,0.168,,1,Pneumonia
+00022815_043.png,Pneumonia,43,22815,009Y,M,AP,2544,3056,0.139,0.139,,1,Pneumonia
+00005567_016.png,Emphysema|Pneumonia,16,5567,049Y,M,PA,2770,2557,0.143,0.143,,1,Pneumonia
+00014022_015.png,Effusion|Pneumonia,15,14022,065Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00023283_006.png,No Finding,6,23283,050Y,F,PA,2662,2491,0.143,0.143,,0,Normal
+00012141_022.png,Edema|Effusion|Pleural_Thickening|Pneumonia,22,12141,031Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00021201_088.png,Edema|Effusion|Pneumonia,88,21201,066Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00017138_038.png,No Finding,38,17138,024Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00014223_011.png,Edema|Infiltration|Pneumonia,11,14223,027Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00014197_002.png,Infiltration|Pneumonia,2,14197,058Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00004893_076.png,No Finding,76,4893,034Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00018187_041.png,No Finding,41,18187,032Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00004832_025.png,Consolidation|Pneumonia|Pneumothorax,25,4832,033Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00012364_069.png,Edema|Pneumonia,69,12364,053Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00008522_038.png,No Finding,38,8522,061Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00016291_015.png,Pneumonia,15,16291,053Y,M,PA,2598,2673,0.143,0.143,,1,Pneumonia
+00019938_003.png,Edema|Pneumonia,3,19938,039Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00014203_001.png,No Finding,1,14203,029Y,M,PA,2820,2897,0.143,0.143,,0,Normal
+00003528_037.png,Infiltration|Pneumonia,37,3528,046Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00029843_001.png,Atelectasis|Effusion|Pneumonia,1,29843,053Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00013111_022.png,Atelectasis|Consolidation|Nodule|Pneumonia,22,13111,024Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00000506_011.png,No Finding,11,506,027Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00029490_002.png,No Finding,2,29490,027Y,M,PA,2021,2021,0.194311,0.194311,,0,Normal
+00009863_007.png,Atelectasis|Consolidation|Edema|Infiltration|Pneumonia,7,9863,040Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00029100_000.png,No Finding,0,29100,036Y,F,PA,2544,3056,0.139,0.139,,0,Normal
+00006304_026.png,Edema|Infiltration|Pneumonia,26,6304,067Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00015072_011.png,Edema|Infiltration|Pneumonia,11,15072,061Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00009953_025.png,Edema|Infiltration|Mass|Pneumonia|Pneumothorax,25,9953,057Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00000218_000.png,Infiltration|Pneumonia,0,218,033Y,M,PA,2500,2048,0.171,0.171,,1,Pneumonia
+00009863_035.png,Edema|Pneumonia,35,9863,040Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00010012_003.png,No Finding,3,10012,053Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00015605_007.png,Edema|Effusion|Infiltration|Pneumonia,7,15605,031Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00017138_058.png,Infiltration|Pneumonia,58,17138,024Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00014996_018.png,No Finding,18,14996,050Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00022815_056.png,Edema|Infiltration|Pneumonia,56,22815,009Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00020213_019.png,Atelectasis|Pneumonia,19,20213,072Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00014197_031.png,Atelectasis|Pneumonia,31,14197,057Y,M,PA,2890,2991,0.143,0.143,,1,Pneumonia
+00008397_016.png,Pneumonia,16,8397,054Y,M,PA,2500,2048,0.168,0.168,,1,Pneumonia
+00010805_021.png,Consolidation|Infiltration|Pneumonia,21,10805,007Y,F,AP,2048,2500,0.168,0.168,,1,Pneumonia
+00007124_000.png,No Finding,0,7124,046Y,F,AP,2500,2048,0.171,0.171,,0,Normal
+00016568_004.png,Effusion|Infiltration|Mass|Pleural_Thickening|Pneumonia,4,16568,038Y,F,AP,2048,2500,0.168,0.168,,1,Pneumonia
+00027685_009.png,No Finding,9,27685,061Y,F,PA,2434,2545,0.143,0.143,,0,Normal
+00016705_006.png,Consolidation|Infiltration|Pneumonia,6,16705,025Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00015018_003.png,Pneumonia,3,15018,039Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00001836_052.png,Edema|Infiltration|Pneumonia,52,1836,049Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00022993_016.png,Edema|Pneumonia,16,22993,055Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00005090_003.png,Atelectasis|Pneumonia,3,5090,057Y,F,PA,2766,2746,0.143,0.143,,1,Pneumonia
+00011702_058.png,Edema|Effusion|Infiltration|Pneumonia,58,11702,026Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00020810_000.png,No Finding,0,20810,066Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00002704_024.png,No Finding,24,2704,039Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00025769_024.png,Effusion|Pneumonia,24,25769,059Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00015732_021.png,Atelectasis|Consolidation|Edema|Effusion|Pneumonia,21,15732,048Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00015442_001.png,Pneumonia,1,15442,063Y,F,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00022993_017.png,Edema|Pneumonia,17,22993,055Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00020725_006.png,No Finding,6,20725,050Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00021201_007.png,Edema|Effusion|Infiltration|Pneumonia,7,21201,065Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00023176_007.png,Infiltration|Pneumonia,7,23176,077Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00000468_027.png,No Finding,27,468,031Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00000149_003.png,No Finding,3,149,070Y,M,PA,2892,2898,0.143,0.143,,0,Normal
+00016972_014.png,Effusion|Pneumonia,14,16972,043Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00030779_000.png,No Finding,0,30779,018Y,M,PA,2021,2021,0.194311,0.194311,,0,Normal
+00001582_021.png,Pneumonia,21,1582,034Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00029605_000.png,No Finding,0,29605,040Y,M,PA,2021,2021,0.194311,0.194311,,0,Normal
+00017138_068.png,Pneumonia,68,17138,024Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00019426_006.png,No Finding,6,19426,049Y,F,AP,3056,2544,0.139,0.139,,0,Normal
+00029532_021.png,No Finding,21,29532,058Y,M,PA,2021,2021,0.194311,0.194311,,0,Normal
+00022290_017.png,Effusion|Pneumonia,17,22290,058Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00010092_003.png,Atelectasis|Nodule|Pneumonia,3,10092,047Y,F,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00015530_108.png,No Finding,108,15530,021Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00016705_003.png,Pneumonia,3,16705,024Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00013685_057.png,Infiltration|Pneumonia,57,13685,049Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00010120_029.png,Infiltration|Pneumonia,29,10120,054Y,M,PA,2520,3056,0.139,0.139,,1,Pneumonia
+00001836_010.png,Consolidation|Fibrosis|Nodule|Pneumonia,10,1836,049Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00015799_003.png,Infiltration|Pneumonia,3,15799,068Y,F,PA,2500,2048,0.168,0.168,,1,Pneumonia
+00021201_019.png,Atelectasis|Effusion|Pneumonia,19,21201,065Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00019863_013.png,No Finding,13,19863,032Y,F,PA,2500,2048,0.168,0.168,,0,Normal
+00016972_028.png,Pneumonia,28,16972,043Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00008008_046.png,Effusion|Pneumonia,46,8008,023Y,F,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00011827_010.png,Atelectasis|Consolidation|Pneumonia,10,11827,030Y,F,PA,1932,2280,0.143,0.143,,1,Pneumonia
+00020852_004.png,No Finding,4,20852,075Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00008397_012.png,Atelectasis|Consolidation|Edema|Pneumonia|Pneumothorax,12,8397,053Y,M,PA,2500,2048,0.168,0.168,,1,Pneumonia
+00029039_010.png,Edema|Infiltration|Pneumonia|Pneumothorax,10,29039,061Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00012622_012.png,Infiltration|Pneumonia,12,12622,031Y,F,PA,2530,2657,0.143,0.143,,1,Pneumonia
+00018921_010.png,Edema|Pneumonia|Pneumothorax,10,18921,043Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00019646_002.png,Consolidation|Effusion|Pneumonia,2,19646,031Y,F,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00013111_094.png,Infiltration|Pneumonia,94,13111,023Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00016490_004.png,No Finding,4,16490,049Y,F,PA,2738,2991,0.143,0.143,,0,Normal
+00011366_002.png,Edema|Pneumonia,2,11366,060Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00022237_023.png,Atelectasis|Edema|Infiltration|Pneumonia,23,22237,070Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00013993_046.png,Pneumonia,46,13993,042Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00022883_014.png,Edema|Infiltration|Pneumonia,14,22883,067Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00015605_012.png,Consolidation|Effusion|Infiltration|Pneumonia,12,15605,032Y,F,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00014822_026.png,No Finding,26,14822,062Y,F,PA,2992,2991,0.143,0.143,,0,Normal
+00016732_017.png,Atelectasis|Effusion|Pneumonia,17,16732,080Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00002300_052.png,Consolidation|Infiltration|Pneumonia,52,2300,081Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00014125_048.png,Edema|Pneumonia,48,14125,028Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00013807_011.png,No Finding,11,13807,066Y,F,AP,2960,2544,0.139,0.139,,0,Normal
+00013993_100.png,Atelectasis|Consolidation|Effusion|Infiltration|Pneumonia,100,13993,043Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00006304_028.png,Edema|Infiltration|Pneumonia,28,6304,067Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00019508_009.png,Edema|Pneumonia,9,19508,034Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00017236_034.png,Pneumonia,34,17236,046Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00026389_002.png,Pneumonia,2,26389,076Y,M,PA,2021,2021,0.194311,0.194311,,1,Pneumonia
+00030555_000.png,No Finding,0,30555,037Y,F,PA,3056,2544,0.139,0.139,,0,Normal
+00019124_015.png,No Finding,15,19124,052Y,F,PA,2992,2991,0.143,0.143,,0,Normal
+00022877_009.png,Infiltration|Pneumonia|Pneumothorax,9,22877,056Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00022192_032.png,Pneumonia,32,22192,073Y,M,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00023138_009.png,Consolidation|Pneumonia,9,23138,040Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00005712_030.png,Infiltration|Pneumonia,30,5712,033Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00028137_000.png,No Finding,0,28137,033Y,F,PA,2021,2021,0.194311,0.194311,,0,Normal
+00025085_018.png,No Finding,18,25085,026Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00004344_036.png,Cardiomegaly|Edema|Infiltration|Pneumonia,36,4344,048Y,F,AP,2048,2500,0.168,0.168,,1,Pneumonia
+00014675_036.png,Infiltration|Pleural_Thickening|Pneumonia,36,14675,068Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00013625_078.png,Edema|Infiltration|Pneumonia,78,13625,066Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00021070_001.png,Edema|Nodule|Pneumonia,1,21070,032Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00021201_053.png,Atelectasis|Edema|Effusion|Pneumonia,53,21201,066Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00026971_012.png,Edema|Infiltration|Pneumonia,12,26971,044Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00023176_014.png,No Finding,14,23176,079Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00012364_070.png,Edema|Pneumonia,70,12364,053Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00014149_025.png,Atelectasis|Consolidation|Pneumonia,25,14149,059Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00018921_036.png,Edema|Infiltration|Pneumonia,36,18921,043Y,F,AP,2048,2500,0.168,0.168,,1,Pneumonia
+00016291_049.png,Infiltration|Pneumonia,49,16291,054Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00005353_000.png,Consolidation|Pneumonia,0,5353,031Y,M,AP,2500,2048,0.171,0.171,,1,Pneumonia
+00013111_083.png,No Finding,83,13111,021Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00021420_028.png,No Finding,28,21420,030Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00010805_013.png,Consolidation|Infiltration|Pneumonia,13,10805,007Y,F,AP,2048,2500,0.115,0.115,,1,Pneumonia
+00018721_007.png,Consolidation|Pneumonia,7,18721,042Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00014004_012.png,Edema|Pneumonia,12,14004,058Y,F,AP,2916,2544,0.139,0.139,,1,Pneumonia
+00023026_008.png,Infiltration|Mass|Pleural_Thickening|Pneumonia,8,23026,030Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00004911_022.png,No Finding,22,4911,049Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00008814_003.png,No Finding,3,8814,041Y,M,PA,2021,2021,0.194311,0.194311,,0,Normal
+00017236_074.png,Edema|Infiltration|Pneumonia,74,17236,046Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00001946_024.png,Pneumonia,24,1946,019Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00028433_014.png,No Finding,14,28433,054Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00013249_035.png,Cardiomegaly|Edema|Effusion|Infiltration|Pneumonia,35,13249,015Y,M,AP,2048,2500,0.168,0.168,,1,Pneumonia
+00013968_007.png,Edema|Pneumonia,7,13968,026Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00022993_011.png,Infiltration|Pneumonia,11,22993,055Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00029747_002.png,Effusion|Infiltration|Pneumonia,2,29747,047Y,F,PA,2021,2021,0.194311,0.194311,,1,Pneumonia
+00017236_104.png,Edema|Pneumonia,104,17236,046Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00013922_012.png,Infiltration|Nodule|Pneumonia,12,13922,052Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00015313_004.png,No Finding,4,15313,033Y,F,PA,2882,2713,0.143,0.143,,0,Normal
+00014004_027.png,Edema|Pneumonia,27,14004,058Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00001946_008.png,No Finding,8,1946,017Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00011857_004.png,No Finding,4,11857,046Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00023097_005.png,No Finding,5,23097,037Y,M,PA,2990,2991,0.143,0.143,,0,Normal
+00014149_029.png,Edema|Infiltration|Pneumonia,29,14149,059Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00028885_000.png,No Finding,0,28885,038Y,F,PA,1540,2021,0.194311,0.194311,,0,Normal
+00004188_015.png,Atelectasis|Pneumonia,15,4188,070Y,M,PA,2530,2897,0.143,0.143,,1,Pneumonia
+00004534_008.png,Cardiomegaly|Pneumonia,8,4534,030Y,F,PA,2992,2991,0.143,0.143,,1,Pneumonia
+00012455_001.png,No Finding,1,12455,068Y,F,PA,2992,2991,0.143,0.143,,0,Normal
+00006991_010.png,Consolidation|Pneumonia,10,6991,052Y,M,PA,2986,2905,0.143,0.143,,1,Pneumonia
+00004808_101.png,Edema|Infiltration|Pneumonia,101,4808,038Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00028639_000.png,No Finding,0,28639,027Y,F,PA,2021,2021,0.194311,0.194311,,0,Normal
+00013377_021.png,No Finding,21,13377,039Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00014004_031.png,Edema|Pneumonia,31,14004,058Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00000032_012.png,Atelectasis|Consolidation|Edema|Pneumonia,12,32,055Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00014675_031.png,Effusion|Infiltration|Pneumonia|Pneumothorax,31,14675,067Y,F,PA,2242,2801,0.143,0.143,,1,Pneumonia
+00014022_102.png,Pneumonia,102,14022,067Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00017981_021.png,No Finding,21,17981,043Y,F,PA,2992,2991,0.143,0.143,,0,Normal
+00022192_001.png,No Finding,1,22192,073Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00016258_002.png,Edema|Effusion|Pneumonia,2,16258,061Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00012263_006.png,Effusion|Mass|Pneumonia,6,12263,035Y,F,PA,2048,2500,0.168,0.168,,1,Pneumonia
+00022192_010.png,No Finding,10,22192,073Y,M,PA,2878,2785,0.143,0.143,,0,Normal
+00012834_091.png,Edema|Pneumonia,91,12834,033Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00010871_008.png,No Finding,8,10871,073Y,M,PA,2802,2991,0.143,0.143,,0,Normal
+00020405_030.png,Pneumonia,30,20405,049Y,M,AP,2788,2544,0.139,0.139,,1,Pneumonia
+00009863_059.png,Pneumonia,59,9863,040Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00017138_060.png,Edema|Emphysema|Infiltration|Pneumonia,60,17138,024Y,M,AP,2048,2500,0.168,0.168,,1,Pneumonia
+00018921_062.png,Edema|Infiltration|Pneumonia,62,18921,042Y,F,PA,2482,2991,0.143,0.143,,1,Pneumonia
+00006271_058.png,No Finding,58,6271,040Y,M,AP,2500,2048,0.171,0.171,,0,Normal
+00004808_009.png,Infiltration|Pneumonia,9,4808,035Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00009507_018.png,Edema|Pneumonia,18,9507,060Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00009863_058.png,Pneumonia,58,9863,040Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00023068_049.png,Edema|Infiltration|Pneumonia,49,23068,072Y,F,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00021201_047.png,No Finding,47,21201,066Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00023075_028.png,No Finding,28,23075,030Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00021222_021.png,Edema|Mass|Pneumonia,21,21222,057Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00017236_101.png,Edema|Infiltration|Pneumonia,101,17236,046Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00016568_009.png,Edema|Infiltration|Mass|Pneumonia,9,16568,038Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00004808_090.png,Edema|Infiltration|Pneumonia,90,4808,038Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00027464_006.png,No Finding,6,27464,034Y,F,AP,3056,2544,0.139,0.139,,0,Normal
+00015386_016.png,No Finding,16,15386,058Y,F,PA,2992,2991,0.143,0.143,,0,Normal
+00023309_000.png,No Finding,0,23309,066Y,M,PA,2992,2991,0.143,0.143,,0,Normal
+00013659_010.png,No Finding,10,13659,061Y,F,PA,2588,2870,0.143,0.143,,0,Normal
+00030206_004.png,No Finding,4,30206,045Y,F,AP,3056,2544,0.139,0.139,,0,Normal
+00005681_018.png,Emphysema|Pneumonia,18,5681,046Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00009431_008.png,No Finding,8,9431,018Y,M,AP,2500,2048,0.168,0.168,,0,Normal
+00013615_004.png,Pneumonia,4,13615,009Y,F,AP,2048,2500,0.168,0.168,,1,Pneumonia
+00014022_085.png,Edema|Pneumonia,85,14022,066Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00012834_085.png,Pneumonia,85,12834,033Y,M,AP,2048,2500,0.168,0.168,,1,Pneumonia
+00004344_035.png,Edema|Pneumonia,35,4344,048Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00029585_000.png,No Finding,0,29585,028Y,M,AP,3056,2544,0.139,0.139,,0,Normal
+00010943_000.png,Atelectasis|Pneumonia,0,10943,037Y,F,PA,2500,2048,0.168,0.168,,1,Pneumonia
+00015646_014.png,Edema|Infiltration|Pneumonia,14,15646,066Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00000506_015.png,Edema|Effusion|Infiltration|Pneumonia,15,506,028Y,M,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00000181_004.png,No Finding,4,181,050Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00018840_041.png,Edema|Infiltration|Pneumonia,41,18840,021Y,F,AP,2964,2544,0.139,0.139,,1,Pneumonia
+00026346_001.png,Edema|Pneumonia,1,26346,058Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00028220_000.png,No Finding,0,28220,027Y,F,PA,2750,2709,0.143,0.143,,0,Normal
+00002529_022.png,Atelectasis|Edema|Effusion|Infiltration|Pneumonia,22,2529,018Y,F,AP,2500,2048,0.168,0.168,,1,Pneumonia
+00026848_028.png,Edema|Infiltration|Pneumonia,28,26848,022Y,M,AP,3056,2544,0.139,0.139,,1,Pneumonia
+00010936_001.png,No Finding,1,10936,042Y,F,PA,2610,2991,0.143,0.143,,0,Normal
+00003028_027.png,No Finding,27,3028,058Y,F,AP,2500,2048,0.168,0.168,,0,Normal
+00021663_001.png,Infiltration|Pneumonia,1,21663,021Y,M,PA,3056,2544,0.139,0.139,,1,Pneumonia
